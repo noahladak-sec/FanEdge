@@ -30,12 +30,37 @@ This is part of my career growth roadmap (Sports-Tech Product & AI Solutions tra
 
 ---
 
-fanedge/
-│
-├── README.md                 # Overview (this file)
-├── data/                     # Raw + processed datasets
-├── notebooks/                # Jupyter/Colab notebooks (features, charts)
-├── app/                      # Streamlit app files
-├── docs/                     # Product artifacts (Charter, PRD, case study, wireframes)
-└── requirements.txt          # Python dependencies
+## 📂 Repository Structure
+- fanedge/
+- README.md                 # Overview (this file)
+- data/                     # Raw + processed datasets
+- notebooks/                # Jupyter/Colab notebooks (features, charts)
+- app/                      # Streamlit app files
+- docs/                     # Product artifacts (Charter, PRD, case study, wireframes)
+- requirements.txt          # Python dependencies
+
+
+---
+
+## 📖 Product Artifacts
+- [FanEdge Charter v1](docs/FanEdge_Charter_v1.md)  
+- PRD (coming Week 2)  
+- Wireframes (coming Week 3)  
+- Case Study v1 (coming Week 6–8)  
+
+---
+
+## 🚀 Roadmap
+- **Weeks 1–2:** PM basics + Python start + Charter  
+- **Weeks 3–6:** PRD v1 + Figma wireframes + MVP analytics  
+- **Weeks 7–10:** Publish live demo + case study + resume update  
+- **Weeks 11–12:** v1.1 feature, retro, demo day  
+
+---
+
+## 🧑‍💻 Setup & Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/fanedge.git
+   cd fanedge
 
