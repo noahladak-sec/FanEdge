@@ -1,5 +1,4 @@
 # 🏟️ FanEdge
-
 Sports insights MVP project — built to demonstrate **product management artifacts** and **solution engineering skills**.  
 This is part of my career growth roadmap (Sports-Tech Product & AI Solutions tracks).
 
@@ -30,7 +29,6 @@ This is part of my career growth roadmap (Sports-Tech Product & AI Solutions tra
 
 ---
 
-
 ## 📂 Repository Structure
 ```text
 fanedge/
@@ -53,6 +51,20 @@ fanedge/
 
 ---
 
+## 🧑‍💻 Setup & Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/fanedge.git
+   cd fanedge
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run Streamlit app (once ready):
+   ```bash
+   streamlit run app/streamlit_app.py
+
+---
+
 ## 🚀 Roadmap
 - **Weeks 1–2:** PM basics + Python start + Charter  
 - **Weeks 3–6:** PRD v1 + Figma wireframes + MVP analytics  
@@ -61,9 +73,15 @@ fanedge/
 
 ---
 
-## 🧑‍💻 Setup & Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/fanedge.git
-   cd fanedge
+## 📚 Case Studies
 
+- FanEdge v1 (MVP) — [Notion Case Study Link] (to be added)
+- Problem → Discovery → PRD → MVP → Results → Next Steps
+
+---
+
+## 🙌 Acknowledgments
+
+- Built as part of my career transition into Sports-Tech Product & AI Solutions
+- Guided by UVA Darden Product Management and CS50 Python coursework
+- Special thanks to my mentors, peers, and coffee chat partners along the way
