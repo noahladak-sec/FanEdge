@@ -33,29 +33,9 @@ This is part of my career growth roadmap (Sports-Tech Product & AI Solutions tra
 ## 📂 Repository Structure
 fanedge/
 │
-├── README.md              # Overview (project goals, scope, roadmap)
-│
-├── data/                  # Raw + cleaned datasets
-│   ├── raw/               # Original sports datasets (CSV, JSON)
-│   └── processed/         # Cleaned / feature-engineered datasets
-│
-├── notebooks/             # Jupyter/Colab notebooks for exploration
-│   ├── week1_basics.ipynb # Python warm-up exercises
-│   ├── features.ipynb     # Feature extraction (form, rolling averages)
-│   └── charts.ipynb       # Simple charts for insights
-│
-├── app/                   # Streamlit app files
-│   ├── streamlit_app.py   # Main entrypoint for the app
-│   └── components/        # Reusable UI parts (insight card, charts)
-│
-├── docs/                  # Product artifacts
-│   ├── FanEdge_Charter_v1.md  # Week 1 charter
-│   ├── PRD_FanEdge_v1.md      # Week 2 PRD
-│   ├── wireframes/            # Exported images from Figma
-│   ├── case_study_v1.md       # Draft case study
-│   └── metrics_plan.md        # Success metrics & OKRs
-│
-├── tests/                 # (Optional) lightweight test scripts
-│   └── test_features.py   # Unit tests for data functions
-│
-└── requirements.txt       # Python dependencies (pandas, streamlit, matplotlib)
+├── README.md # Overview (this file)
+├── data/ # Raw + processed datasets
+├── notebooks/ # Jupyter/Colab notebooks (features, charts)
+├── app/ # Streamlit app files
+├── docs/ # Product artifacts (Charter, PRD, case study, wireframes)
+└── requirements.txt # Python dependencies
