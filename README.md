@@ -30,15 +30,18 @@ This is part of my career growth roadmap (Sports-Tech Product & AI Solutions tra
 
 ---
 
+
 ## 📂 Repository Structure
+```text
 fanedge/
-```│
+│
 ├── README.md              # Overview (this file)
 ├── data/                  # Raw + processed datasets
 ├── notebooks/             # Jupyter/Colab notebooks (features, charts)
 ├── app/                   # Streamlit app files
 ├── docs/                  # Product artifacts (Charter, PRD, case study, wireframes)
-```└── requirements.txt       # Python dependencies
+└── requirements.txt       # Python dependencies
+
 
 
 ---
