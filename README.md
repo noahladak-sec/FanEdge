@@ -41,8 +41,7 @@ fanedge/
 ├── app/                   # Streamlit app files
 ├── docs/                  # Product artifacts (Charter, PRD, case study, wireframes)
 └── requirements.txt       # Python dependencies
-```text
-
+```
 
 ---
 
