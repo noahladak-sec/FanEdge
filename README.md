@@ -38,7 +38,7 @@ fanedge/
 ├── notebooks/             # Jupyter/Colab notebooks (features, charts)
 ├── app/                   # Streamlit app files
 ├── docs/                  # Product artifacts (Charter, PRD, case study, wireframes)
-└── requirements.txt       # Python dependencies```
+```└── requirements.txt       # Python dependencies
 
 
 ---
