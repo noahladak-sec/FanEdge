@@ -92,7 +92,7 @@ Once the first version of FanEdge is built, I’ll publish a short case study ex
 - How I defined the MVP
 - What I built
 - What I learned
-- W I would improve next
+- What I would improve next
 
 link will be added here once it’s ready.
 - FanEdge v1 (MVP) — [Notion Case Study Link] (to be added)
