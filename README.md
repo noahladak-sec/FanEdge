@@ -1,5 +1,5 @@
 # 🏟️ FanEdge
-FanEdge is a simple sports insights MVP designed to help fans make quick, confident decisions before a match.  
+FanEdge is a simple sports insights MVP (minimum viable product) designed to help fans make quick, confident decisions before a match.  
 This project is a practical way for me to learn and demonstrate Product Management skills by taking an idea from problem → plan → first prototype.
 
 ---
